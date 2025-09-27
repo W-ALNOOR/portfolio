@@ -11,7 +11,7 @@ import Project from './project';
 import Services from './services';
 
 
-
+// Defines all the navigation routes
 
 const MainRouter = () => {
   return (
